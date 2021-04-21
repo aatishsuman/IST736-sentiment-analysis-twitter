@@ -14,3 +14,10 @@ Neural Network with BERT pretrained model (untuned)	- 76.28<br>
 LSTM with BERT pretrained model (untuned)	- 83.39<br>
 
 The results from the traditional models are mentioned in the document.
+
+## Directions for use
+- Software needed - Python, Jupyter notebook.
+- Python packages needed - sklearn, Tensorflow.
+- The cleaning.ipynb file contains the code cleaning the data.
+- The .docx file contains the report.
+- All the other files contain the code for training the models for different combinations of algorithms and preprocessing steps.
